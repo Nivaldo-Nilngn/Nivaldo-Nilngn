@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Full Stack
 
-Sou **Cientista da Computação** com especialização em **Banco de Dados** e uma paixão por explorar as mais diversas linguagens de programação. Ao longo da minha carreira, tenho atuado como **Coordenador** e **Professor de Informática**, com foco em desenvolver cursos e conteúdos nas áreas de **Programação**, **Web Design**, **Design Gráfico**, além de **Manutenção de Computadores**.
+Sou **DEV** com especialização em **Banco de Dados** e uma paixão por explorar as mais diversas linguagens de programação. Ao longo da minha carreira, tenho atuado como **Coordenador** e **Professor de Informática**, com foco em desenvolver cursos e conteúdos nas áreas de **Programação**, **Web Design**, **Design Gráfico**, além de **Manutenção de Computadores**.
 
 ---
 ### 🚀 **Minhas Especialidades**
