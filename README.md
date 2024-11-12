@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Full Stack
 
-Sou **DEV** com especialização em **Banco de Dados** e uma paixão por explorar as mais diversas linguagens de programação. Ao longo da minha carreira, tenho atuado como **Coordenador** e **Professor de Informática**, com foco em desenvolver cursos e conteúdos nas áreas de **Programação**, **Web Design**, **Design Gráfico**, além de **Manutenção de Computadores**.
+Sou **DEV** com especialização em **Backend** e uma paixão por explorar as mais diversas linguagens de programação. Ao longo da minha carreira, tenho atuado como **Coordenador** e **Professor de Informática**, com foco em desenvolver cursos e conteúdos nas áreas de **Programação**, **Web Design**, **Design Gráfico**, além de **Manutenção de Computadores**.
 
 ---
 ### 🚀 **Minhas Especialidades**
@@ -17,9 +17,12 @@ Sou **DEV** com especialização em **Banco de Dados** e uma paixão por explora
 
 ### 💼 **Experiência Profissional**
 
-#### 💻 **Prepara Cursos - Unidade São Lourenço** *(03/2020 - atual)*
+#### 💻 **Incentiva Cursos - Unidade paulista (09/2022 - atual)*
 - 📌 **Coordenador e Professor de Informática**
 - ✏️ Desenvolvimento de cursos nas áreas de **Programação**, **Web Design**, **Design Gráfico** e **Manutenção de Computadores**
+- 
+#### 🎨 **Prepara Cursos - Unidade São Lourenço** *(2022 - 2020)*
+- 📌 **Professor de Informática**, **Design Gráfico** e **Web Design**
 
 #### 🎨 **InforLine Cursos** *(2012 - 2014)*
 - 📌 **Professor de Informática**, **Design Gráfico** e **Web Design**
@@ -46,7 +49,7 @@ Sou **DEV** com especialização em **Banco de Dados** e uma paixão por explora
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivaldo-g-neto-859549234/)
 [![E-mail](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nivaldo.nilngn@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581988916702)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivaldoNilngn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nivaldo-Nilngn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nivaldogneto/)
 ### 💡 **O que me motiva**
 
